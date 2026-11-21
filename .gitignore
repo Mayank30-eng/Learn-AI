@@ -1,0 +1,18 @@
+# Environment variables and secrets
+.env
+*.env
+**/.env
+**/*.env
+
+# Virtual environments
+.venv
+**/.venv
+
+# Python artifacts
+__pycache__/
+**/__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
