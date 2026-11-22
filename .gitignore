@@ -16,3 +16,7 @@ build/
 dist/
 wheels/
 *.egg-info
+
+# OS files
+.DS_Store
+**/.DS_Store
